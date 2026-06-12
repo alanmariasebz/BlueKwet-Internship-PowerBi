@@ -15,4 +15,4 @@ A workforce analytics dashboard designed to monitor employee performance, attend
 - Interactive filtering
 
 ## Business Impact:
-Supports HR teams in improving employee retention and workforce planning.
+Supports HR teams in improving employee attrition and workforce planning.
