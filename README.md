@@ -7,12 +7,12 @@ A workforce analytics dashboard designed to monitor employee performance, attend
 
 ## Key Features:
 
-Employee count and status tracking
-Attrition analysis
-Attendance monitoring
-Performance evaluation
-Department-wise insights
-Interactive filtering
+- Employee count and status tracking
+- Attrition analysis
+- Attendance monitoring
+- Performance evaluation
+- Department-wise insights
+- Interactive filtering
 
 ## Business Impact:
 Supports HR teams in improving employee retention and workforce planning.
